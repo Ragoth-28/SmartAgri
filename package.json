@@ -1,0 +1,20 @@
+{
+  "name": "smartagri-platform",
+  "version": "1.0.0",
+  "description": "SmartAgri - AI Agriculture Advisory Platform (100% Pure MERN Stack)",
+  "scripts": {
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "build:client": "cd client && npm run build"
+  },
+  "keywords": [
+    "mern",
+    "agriculture",
+    "smart-farming",
+    "iot",
+    "glassmorphism",
+    "ai"
+  ],
+  "author": "",
+  "license": "ISC"
+}
